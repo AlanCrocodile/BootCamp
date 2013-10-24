@@ -5,5 +5,5 @@ Ben Nevis
 	is in Scotland
 Snowdon
 Mont Blanc
-	isnt even a Mountain
+	Isnt even a Mountain
 Hellvellyn
